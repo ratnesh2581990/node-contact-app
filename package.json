@@ -1,0 +1,20 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ratnesh Choudhary",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.0",
+    "hbs": "^4.0.4",
+    "mongoose": "^5.6.1",
+    "path": "^0.12.7"
+  }
+}
